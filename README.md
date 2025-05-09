@@ -17,7 +17,7 @@ This is a lightweight web application that allows users to **upload multiple PDF
 3. When a question is asked, the RAG system retrieves relevant context from the chosen PDF.
 4. The language model generates an accurate and contextual response.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **FastAPI** – For the backend API.
 - **Python** – Core programming logic.
